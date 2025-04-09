@@ -1,3 +1,5 @@
+// 220135N - Dissanayake D.M.A.K.
+
 const int frequencies[] = {300, 400, 500, 600, 700, 800, 900, 1000};
 const int numButtons = 8;
 const int speakerPin = 10;
